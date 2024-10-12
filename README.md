@@ -1,6 +1,7 @@
-# Nome do projeto
+# Conexão Esportiva
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O objetivo do Conexão Esportiva é juntar pessoas para realizarem a prática de esportes. Seja elas pessoas que praticam esporte frequentemente, pessoas que nunca praticaram o esporte e queiram iniciar sua pratica e também trazer de volta o hábito de uma pessoa para praticar esportes. Isso será feito por meio de comunidades de diferentes esportes, grau de habilidade e região. 
+
 
 ## Alunos integrantes da equipe
 
