@@ -17,6 +17,6 @@ O objetivo do Conexão Esportiva é juntar pessoas para realizarem a prática de
 
 * Clóvis Lemos Tavares
 
-Documentação
+<h1 Documentação
 
 <a href="docs/Documentação do projeto(1).md">Documentação de Contexto
