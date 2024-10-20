@@ -1,0 +1,60 @@
+{
+    "partidas": [
+        {
+            "id": 1,
+            "sport": "Futebol",
+            "name": "Torneio de Verão",
+            "date": "2024-11-01",
+            "location": "Estádio Municipal",
+            "description": "Torneio de verão com equipes regionais.",
+            "participants": ["jorginho", "felipe", "joão", "maria"],
+            "invite_link": "",
+            "matches": [
+                { "matchId": 1, "matchName": "Jogo 1: Equipe A vs Equipe B", "date": "2024-11-02" },
+                { "matchId": 2, "matchName": "Jogo 2: Equipe B vs Equipe C", "date": "2024-11-03" }
+            ]
+        },
+        {
+            "id": 2,
+            "sport": "Basquete",
+            "name": "Campeonato Escolar",
+            "date": "2024-10-25",
+            "location": "Ginásio Central",
+            "description": "Campeonato de basquete entre escolas.",
+            "participants": ["jorginho", "felipe", "joão", "maria"],
+            "invite_link": "",
+            "matches": [
+                { "matchId": 3, "matchName": "Partida A: Escola X vs Escola Y", "date": "2024-10-26" },
+                { "matchId": 4, "matchName": "Partida B: Escola Y vs Escola Z", "date": "2024-10-27" }
+            ]
+        },
+        {
+            "id": 3,
+            "sport": "Vôlei",
+            "name": "Partida de Quadra",
+            "date": "2024-10-25",
+            "location": "Ginásio Central",
+            "description": "Campeonato de vôlei.",
+            "participants": ["jorginho", "felipe", "joão", "maria"],
+            "invite_link": "",
+            "matches": [
+                { "matchId": 5, "matchName": "Partida Z", "date": "2024-10-26" },
+                { "matchId": 6, "matchName": "Partida C", "date": "2024-10-27" }
+            ]
+        },
+        {
+            "id": 4,
+            "sport": "Tênis",
+            "name": "Partida de Quadra",
+            "date": "2024-10-25",
+            "location": "Ginásio Central",
+            "description": "Campeonato de tênis.",
+            "participants": ["jorginho", "felipe", "joão", "maria"],
+            "invite_link": "",
+            "matches": [
+                { "matchId": 7, "matchName": "Partida A", "date": "2024-10-26" },
+                { "matchId": 8, "matchName": "Partida B", "date": "2024-10-27" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Competições</title>
+    <link rel="stylesheet" href="assets/css/competitionsCategory.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Explorar Competições</h1>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Pesquise por esportes..." oninput="filterSports()">
+            </div>
+        </header>
+
+        <section id="sportsGrid" class="grid">
+
+            
+            <div class="card" data-sport="Futebol" onclick="searchSport('Futebol')">
+                <h2>Futebol</h2>
+            </div>
+            <div class="card" data-sport="Basquete" onclick="searchSport('Basquete')">
+                <h2>Basquete</h2>
+            </div>
+            <div class="card" data-sport="Vôlei" onclick="searchSport('Vôlei')">
+                <h2>Vôlei</h2>
+            </div>
+            <div class="card" data-sport="Tênis" onclick="searchSport('Tênis')">
+                <h2>Tênis</h2>
+            </div>
+
+
+
+        </section>
+
+        <section id="results" class="results">
+            <h3>Resultados da pesquisa:</h3>
+            <div id="matchesContainer"></div>
+        </section>
+    </div>
+
+    <script src="assets/js/competitionsCategory.js"></script>
+</body>
+</html>

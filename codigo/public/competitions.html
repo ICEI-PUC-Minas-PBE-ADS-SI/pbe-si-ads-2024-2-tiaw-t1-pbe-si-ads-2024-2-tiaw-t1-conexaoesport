@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes da Competição</title>
+    <link rel="stylesheet" href="assets/css/competition.css">
+</head>
+<body>
+    <div class="container">
+        <header class="competition-header">
+            <h1 id="competitionName">Nome da Partida</h1>
+        </header>
+
+        <section class="competition-details">
+            <div class="details-row">
+                <p class="details-label">ID da Partida:</p>
+                <p id="competitionId" class="details-value"></p>
+            </div>
+            <div class="details-row">
+                <p class="details-label">Data da partida:</p>
+                <p id="competitionDate" class="details-value"></p>
+            </div>
+            <div class="details-row">
+                <p class="details-label">Localidade:</p>
+                <p id="competitionLocation" class="details-value"></p>
+            </div>
+            <div class="details-row">
+                <p class="details-label">Participantes:</p>
+                <p id="competitionParticipants" class="details-value"></p>
+            </div>
+            <div class="details-row">
+                <p class="details-label">Link da Competição:</p>
+                <p id="competitionLink" class="details-value"></p>
+            </div>
+        </section>
+
+        <section class="link-section">
+            <label for="linkInput" class="link-label">Adicionar Link:</label>
+            <input type="url" id="linkInput" class="link-input" placeholder="Insira um link relacionado à partida">
+            <button id="saveLinkBtn" class="save-link-button">Salvar Link</button>
+            <p id="linkMessage" class="link-message"></p>
+        </section>
+    </div>
+    <script src="assets/js/competition.js"></script>
+</body>
+</html>
