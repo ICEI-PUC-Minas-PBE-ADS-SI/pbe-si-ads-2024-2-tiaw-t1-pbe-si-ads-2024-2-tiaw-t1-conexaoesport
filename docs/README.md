@@ -6,13 +6,13 @@ Informações básicas do projeto.
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
-  *Pedro Oliveira Coelho (https://github.com/1PedroCoelho)
-  *Henrique Santos de Sousa
-  *Matheus Soares de Sales Corrêa
-  *João Pedro de Lima Damaso
-  *Gabriel Souza Silva
-  *Fellipe Gabriel Dutra do Nascimento
-  *Cayo Vitor Moreira Bicario
+  * Pedro Oliveira Coelho (https://github.com/1PedroCoelho)
+  * Henrique Santos de Sousa
+  * Matheus Soares de Sales Corrêa
+  * João Pedro de Lima Damaso
+  * Gabriel Souza Silva
+  * Fellipe Gabriel Dutra do Nascimento
+  * Cayo Vitor Moreira Bicario
 
 
 A documentação do projeto é estruturada da seguinte forma:
