@@ -20,3 +20,7 @@ O objetivo do Conexão Esportiva é juntar pessoas para realizarem a prática de
 <h2>Documentação</h2> 
 
 <a href="docs/Documentação do Projeto (1).md"> Documentação de Contexto
+
+<h2>Aplicação</h2>
+
+<a href="https://icei-puc-minas-pbe-ads-si.github.io/pbe-si-ads-2024-2-tiaw-t1-pbe-si-ads-2024-2-tiaw-t1-conexaoesport/"> Conexão Esportiva
