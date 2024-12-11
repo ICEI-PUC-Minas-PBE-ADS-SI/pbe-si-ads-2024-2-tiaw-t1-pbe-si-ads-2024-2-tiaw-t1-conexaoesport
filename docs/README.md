@@ -6,9 +6,8 @@ Informações básicas do projeto.
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  *Pedro Oliveira Coelho (https://github.com/1PedroCoelho)
+  *Henrique Santos
 
 A documentação do projeto é estruturada da seguinte forma:
 
