@@ -4,4 +4,4 @@
 <img src="images/Matriz CSD.png">
 <br>
 <h2>Mapa de Stakeholders</h2>
-<img src="images/MapaStakeholder.png">
+<img src="images/MapaStakeholders.png">
