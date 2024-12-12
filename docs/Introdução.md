@@ -12,4 +12,4 @@ Informações básicas do projeto.
   * João Pedro de Lima Damaso
   * Gabriel Souza Silva
   * Fellipe Gabriel Dutra do Nascimento
-  * Cayo Vitor Moreira Bicario
+  * Cayo Vitor Moreira Bicario (https://github.com/cayo74)
