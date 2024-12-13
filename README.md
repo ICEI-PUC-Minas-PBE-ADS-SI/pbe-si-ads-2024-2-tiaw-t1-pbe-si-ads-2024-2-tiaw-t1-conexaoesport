@@ -22,7 +22,7 @@ O objetivo do Conexão Esportiva é juntar pessoas para realizarem a prática de
 * <a href="docs/Documentação do Projeto (1).md"> Documentação de Contexto<br>
 * <a href="docs/Introdução.md"> Introdução<br>
 * <a href="docs/Contexto.md"> Contexto<br>
-* <a href="docs/ProductDiscovery.md"><br>
+* <a href="docs/ProductDiscovery.md"> Product Discovery<br>
 
 <h2>Aplicação</h2>
 
