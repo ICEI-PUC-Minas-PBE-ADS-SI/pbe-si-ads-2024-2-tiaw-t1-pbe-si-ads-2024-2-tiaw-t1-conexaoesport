@@ -5,3 +5,7 @@
 <br>
 <h2>Mapa de Stakeholders</h2>
 <img src="images/MapaStakeholders.png">
+<br>
+<h2>Personas</h2>
+<img src="images/Empatia+05+-+An%C3%A1lise+-+Persona1.png">
+
