@@ -7,5 +7,5 @@
 <img src="images/MapaStakeholders.png">
 <br>
 <h2>Personas</h2>
-<img src="images/p1.png">
+<img src="images/p1.pdf">
 
