@@ -7,4 +7,5 @@
 | Senhor aposentado     |Encontrar espaços adaptados a idosos     |Ter mais disposição na terceira idade  |
 | Jovem gamer     |Localizar uma academia com horários flexíveis     |Encaixe na rotina  |
 | Estudante sem opções dentro da escola   |Buscar uma turma que pratique meu esporte|Possa evoluir dentro da modalidade|
+| Trabalhador home office|Encontrar aulas de Yoga|Cuidados com o próprio corpo  |
 
