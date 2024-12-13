@@ -8,4 +8,8 @@
 <br>
 <h2>Personas</h2>
 <img src="images/p11.png">
+<br>
+<img src="images/p33.png">
+<br>
+<img src="images/p44.png">
 
