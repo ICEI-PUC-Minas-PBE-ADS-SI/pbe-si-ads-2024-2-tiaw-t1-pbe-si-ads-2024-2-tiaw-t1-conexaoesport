@@ -19,12 +19,12 @@ O objetivo do Conexão Esportiva é juntar pessoas para realizarem a prática de
 
 <h2>Documentação</h2> 
 
-* <a href="docs/Documentação do Projeto (1).md"> Documentação de Contexto<br>
-* <a href="docs/Introdução.md"> Introdução<br>
-* <a href="docs/Contexto.md"> Contexto<br>
-* <a href="docs/ProductDiscovery.md"> Product Discovery<br>
-* <a href="docs/ProductDiscovery.md"> Bibliografia<br>
-* <a href="docs/Proposta de valor.md"> Propostas de Valor<br>
+1. <a href="docs/Documentação do Projeto (1).md"> Documentação de Contexto<br>
+2. <a href="docs/Introdução.md"> Introdução<br>
+3. <a href="docs/Contexto.md"> Contexto<br>
+4. <a href="docs/ProductDiscovery.md"> Product Discovery<br>
+5. <a href="docs/ProductDiscovery.md"> Bibliografia<br>
+6. <a href="docs/Proposta de valor.md"> Propostas de Valor<br>
 
 <h2>Aplicação</h2>
 
