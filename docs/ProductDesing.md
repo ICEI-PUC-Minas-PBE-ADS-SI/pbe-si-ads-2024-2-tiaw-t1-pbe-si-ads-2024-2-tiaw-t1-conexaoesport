@@ -8,4 +8,7 @@
 | Jovem gamer     |Localizar uma academia com horários flexíveis     |Encaixe na rotina  |
 | Estudante sem opções dentro da escola   |Buscar uma turma que pratique meu esporte|Possa evoluir dentro da modalidade|
 | Trabalhador home office|Encontrar aulas de Yoga|Cuidados com o próprio corpo  |
+<br>
+<h2>Proposta de valor</h2><br>
+<img src="images
 
