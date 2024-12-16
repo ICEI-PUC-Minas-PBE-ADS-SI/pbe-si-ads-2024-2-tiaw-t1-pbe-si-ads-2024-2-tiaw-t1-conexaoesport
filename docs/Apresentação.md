@@ -1,6 +1,6 @@
 Bem-vindo à apresentação do nosso Projeto: Conexão Esportiva
 
-Apresentação dos Slides:
+Apresentação com Slide:
 
 [Yellow Abstract Minimalist Group Project Presentation.pdf](https://github.com/user-attachments/files/18157412/Yellow.Abstract.Minimalist.Group.Project.Presentation.pdf)
 
