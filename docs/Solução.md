@@ -1,7 +1,7 @@
 <h1>Solução</h1>
  O projeto visa desenvolver uma aplicação inovadora que facilita o acesso ao esporte e atividades físicas, conectando pessoas de diferentes idades, estilos de vida e níveis de condicionamento. A solução aborda problemas como a falta de tempo, motivação, companhia e informação ao fornecer um sistema intuitivo que permite encontrar atividades próximas, criar grupos, participar de eventos e acompanhar o progresso pessoal. Através de recursos como geolocalização, gamificação, integração com dispositivos inteligentes e um sistema de matchmaking, o aplicativo promove saúde, inclusão social e bem-estar, incentivando um estilo de vida mais ativo e equilibrado.<br>
  <br>
- Contatos da aplicação
+<h3>Funcionalidade de criação de cards</h3><br>
 
 ```
     let nome = document.getElementById("nome");
