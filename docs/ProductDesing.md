@@ -11,7 +11,7 @@
 <br>
 <h2>Proposta de valor</h2><br>
 <img src="images/propval.png"><br>
-<h2>Requisitos funcionais e não funcionais</h2>
+<h2>Requisitos funcionais e não funcionais</h2><br>
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
 | RF-001 |Cadastro de usuários |Média       |
