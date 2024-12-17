@@ -26,3 +26,8 @@
 | RNF-001 | O app deve carregar resultados de busca em menos de 3 segundos | MÉDIA     |
 | RNF-002 | Disponibilidade do app para iOS, Android e versão web    | BAIXA      |
 
+<br>
+<h2>Wireframe</h2><br>
+<img src="images/wireframe.png"><br>
+
+
