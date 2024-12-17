@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3ae8fcbd-e7e5-4d60-a5dc-a09c8194e710)<h1>Product Desing</h1><br>
+
 <h2>História de usuários</h2><br>
 
 | EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
