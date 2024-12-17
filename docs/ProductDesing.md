@@ -10,5 +10,6 @@
 | Trabalhador home office|Encontrar aulas de Yoga|Cuidados com o próprio corpo  |
 <br>
 <h2>Proposta de valor</h2><br>
-<img src="images/propval.png">
+<img src="images/propval.png"><br>
+<h2></h2>
 
