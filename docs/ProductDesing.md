@@ -11,5 +11,17 @@
 <br>
 <h2>Proposta de valor</h2><br>
 <img src="images/propval.png"><br>
-<h2></h2>
+<h2>Requisitos funcionais e não funcionais</h2>
+| ID     | Descrição do Requisito                                   | Prioridade |
+| ------ | ---------------------------------------------------------- | ---------- |
+| RF-001 |Cadastro de usuários |Média       |
+| RF-002 | Gerenciamento de eventos |Alta     |
+| RF-003 | Pesquisa e Filtros |Alta     |
+
+### Requisitos não Funcionais
+
+| ID      | Descrição do Requisito                                                              | Prioridade |
+| ------- | ------------------------------------------------------------------------------------- | ---------- |
+| RNF-001 | O app deve carregar resultados de busca em menos de 3 segundos | MÉDIA     |
+| RNF-002 | Disponibilidade do app para iOS, Android e versão web    | BAIXA      |
 
