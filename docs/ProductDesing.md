@@ -28,7 +28,7 @@
 
 <br>
 <h2>Wireframe</h2><br>
-<img src="images/wireframe.pdf"><br>
+<img src="images/principal1123.png"><br>
 <img src="images/principal.png"><br>
 
 
