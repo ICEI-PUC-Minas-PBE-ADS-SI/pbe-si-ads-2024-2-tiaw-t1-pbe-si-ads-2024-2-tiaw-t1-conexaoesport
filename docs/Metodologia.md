@@ -2,5 +2,5 @@
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Repositório de código     | GitHub     |     |
+| Repositório de código     | GitHub     |https://github.com/ICEI-PUC-Minas-PBE-ADS-SI     |
 |Editor de código |Vscode  |https://code.visualstudio.com/  |
